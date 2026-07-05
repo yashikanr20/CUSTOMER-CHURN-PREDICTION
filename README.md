@@ -19,7 +19,7 @@ The goal of this project is to develop a classification model that predicts whet
 2.Environment - Jupyter Notebook
 
 3. Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-   
+
 4. ML Algorithm - Logistic Regression
 <br>
 ## Methodology
