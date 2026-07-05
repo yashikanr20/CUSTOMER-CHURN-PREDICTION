@@ -15,12 +15,9 @@ The goal of this project is to develop a classification model that predicts whet
 <br>
 ## Tech Stack
 1.Language - Python
-
-2.Environment - Jupyter Notebook
-
-3. Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-4. ML Algorithm - Logistic Regression
+2.Environment - Jupyter Notebook\
+3. Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn\
+4. ML Algorithm - Logistic Regression\
 <br>
 ## Methodology
 - Data Cleaning - handled missing values, corrected data types(if any)
