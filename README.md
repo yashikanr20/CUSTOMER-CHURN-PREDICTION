@@ -10,19 +10,23 @@ The goal of this project is to develop a classification model that predicts whet
 <br>
 ## Dataset
 **Source:** [Dataset](https://docs.google.com/spreadsheets/d/1J2aMbLrRnk8g0Y5TSbz-en_7UxlI7xh0cLIZnIy4aew/edit?usp=sharing)
+
 **Size:** 7043 rows x 21 columns
 <br>
 ## Tech Stack
 1.Language - Python
+
 2.Environment - Jupyter Notebook
+
 3. Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+   
 4. ML Algorithm - Logistic Regression
 <br>
 ## Methodology
 - Data Cleaning - handled missing values, corrected data types(if any)
 - Exploratory Data Analysis (EDA) with visualizations and summary statistics
-- Data Preprocessing — encoding categorical variables
+- Data Preprocessing - encoding categorical variables
 - Feature Scaling
-- Model development — trained a Logistic Regression classifier as the primary model
-- Evaluation - Evaluation — assessed the model using Accuracy, Precision, Recall, F1-Score
+- Model development - trained a Logistic Regression classifier as the primary model
+- Evaluation - assessed the model using Accuracy, Precision, Recall, F1-Score
   
