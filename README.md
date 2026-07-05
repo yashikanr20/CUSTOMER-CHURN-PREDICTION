@@ -14,7 +14,7 @@ The goal of this project is to develop a classification model that predicts whet
 **Size:** 7043 rows x 21 columns
 <br>
 ## Tech Stack
-1.Language - Python
+1.Language - Python\
 2.Environment - Jupyter Notebook\
 3. Python Libraries - Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn\
 4. ML Algorithm - Logistic Regression\
